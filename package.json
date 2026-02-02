@@ -77,7 +77,7 @@
     "sound-play": "^1.1.0",
     "steam-shortcut-editor": "https://github.com/hydralauncher/steam-shortcut-editor",
     "sudo-prompt": "^9.2.1",
-    "tar": "^7.4.3",
+    "tar": "^7.5.7",
     "tough-cookie": "^5.1.1",
     "user-agents": "^1.1.387",
     "winreg": "^1.2.5",
